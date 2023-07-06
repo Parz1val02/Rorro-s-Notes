@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "vimMode": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./attachments"
+}
