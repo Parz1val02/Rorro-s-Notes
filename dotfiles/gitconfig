@@ -1,0 +1,10 @@
+[user]
+	name = r.b4rr10s
+	email = rodrigoedu11@gmail.com
+[core]
+	autocrlf = input
+	editor = vim
+[init]
+	defaultBranch = main
+[color]
+	ui = true
