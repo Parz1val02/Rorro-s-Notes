@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "966d6390a07225e1",
+        "id": "e0488721f8fda12a",
         "type": "tabs",
         "children": [
           {
-            "id": "01e7e52eabae27ec",
+            "id": "02f956bd69df607b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -154,11 +154,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "01e7e52eabae27ec",
+  "active": "3f61edd553f3a249",
   "lastOpenFiles": [
-    "Assets/IDOR1.JPG",
     "Markdown important Keys.md",
     "Important Hotkeys.md",
+    "Assets/IDOR1.JPG",
     "Hacking owo/Linux Upskill Challenge owo/Day 2.md",
     "Verano 2023/Objetivos para vacaciones.md",
     "Verano 2023/Toefl.md",
@@ -186,7 +186,6 @@
     "Assets/StoredXSS.JPG",
     "Assets/SSRF.JPG",
     "Assets/SQLI.JPG",
-    "Assets/ReflectedXSS.JPG",
     "Hacking owo/THM_Rooms/Vulnerabilities.md",
     "Hacking owo/THM_Rooms/sqlmap.md",
     "Hacking owo/THM_Rooms/Post Exploitation Basics.md",
