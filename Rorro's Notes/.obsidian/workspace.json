@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0488721f8fda12a",
+        "id": "5165ed21fc7cc592",
         "type": "tabs",
         "children": [
           {
-            "id": "02f956bd69df607b",
+            "id": "5bfc3095af1436d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3f61edd553f3a249",
+  "active": "5bfc3095af1436d4",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Markdown important Keys.md",
     "Important Hotkeys.md",
     "Assets/IDOR1.JPG",
