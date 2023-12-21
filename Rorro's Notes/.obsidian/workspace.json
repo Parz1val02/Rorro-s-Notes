@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5165ed21fc7cc592",
+        "id": "1022c23f91a128be",
         "type": "tabs",
         "children": [
           {
-            "id": "5bfc3095af1436d4",
+            "id": "d316507b052d19e9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,11 +154,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5bfc3095af1436d4",
+  "active": "d316507b052d19e9",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Markdown important Keys.md",
+    "Hacking owo/THM_Rooms/Vulnerabilities.md",
+    "Nuevas weas.md",
+    "Recording 20221018224840.webm.md",
+    "Linux Modules.md",
     "Important Hotkeys.md",
+    "Untitled.canvas",
     "Assets/IDOR1.JPG",
     "Hacking owo/Linux Upskill Challenge owo/Day 2.md",
     "Verano 2023/Objetivos para vacaciones.md",
@@ -187,10 +191,7 @@
     "Assets/StoredXSS.JPG",
     "Assets/SSRF.JPG",
     "Assets/SQLI.JPG",
-    "Hacking owo/THM_Rooms/Vulnerabilities.md",
     "Hacking owo/THM_Rooms/sqlmap.md",
-    "Hacking owo/THM_Rooms/Post Exploitation Basics.md",
-    "Hacking owo/THM_Rooms/Passive Reconnaissance.md",
-    "Hacking owo/THM_Rooms/Linux Backdoors.md"
+    "Hacking owo/THM_Rooms/Post Exploitation Basics.md"
   ]
 }

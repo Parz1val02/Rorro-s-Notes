@@ -47,11 +47,10 @@ Imagen
 
 [aea](<file:///home/rodro/Documents/githubtoken.txt>)
 
-![[Recording 20221018224835.webm]]
 
-![[Recording 20221018224840.webm]]
 
 ![Arch Linux owo](https://archlinux.org/static/archnavbar/archlogo.a2d0ef2df27d.png)
 ![Arch Linux owo](https://archlinux.org/static/archnavbar/archlogo.a2d0ef2df27d.png)
 ![[Pwnkit#Pwnkit: CVE-2021-4034]]
+
 
